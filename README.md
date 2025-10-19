@@ -1,6 +1,6 @@
 # airbnb-clone-project
 
-#Team Roles
+# Team Roles
 
 
 Business Analyst (BA) – Bridges the gap between business needs and technical solutions by gathering, analyzing, and documenting requirements. They ensure that the final product aligns with business goals and stakeholder expectations.
